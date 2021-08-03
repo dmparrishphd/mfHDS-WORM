@@ -1,2 +1,1 @@
-# mfHDS-WORM
-MODFLOW Binary Heads Interface
+[README](https://github.com/dmparrishphd/mfHDS-CORW/blob/main/README.md).
