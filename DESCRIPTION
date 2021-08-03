@@ -1,0 +1,12 @@
+Package: mfHDS.WORM
+Type: Package
+Title: MODFLOW Binary Heads Interface (WORM)
+Version: 0.0-0
+Date: 2021-08-03
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: An interface for MODFLOW heads binary output files.
+        This repository develops only by the addition of new
+    files.
+License: AGPL-3
+Encoding: UTF-8
